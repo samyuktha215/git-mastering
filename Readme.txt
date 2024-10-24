@@ -1,3 +1,4 @@
-hello from git by sam
-hi everyone who are using git.
+
+hello from git
+This is from dev-samyuktha.
 hello from feature branch.
